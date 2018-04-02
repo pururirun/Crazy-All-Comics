@@ -6,7 +6,7 @@ Lamentablemente cuenta con una página web que está prácticamente abandonada, 
 ![crazyallcomics](https://user-images.githubusercontent.com/32286015/38064741-29f430c8-32d6-11e8-8feb-cb971c1b020d.png)
 
 ## Desarrollado para 
-[Crazy All Comics](https://marvelapp.com/project/2799111/)
+[Laboratoria, 2018](https://marvelapp.com/project/2799111/)
 
 Las mejoras en la pagina web se enfocaron en que el usuario pueda tener una idea más certera acerca de las obras, esto se logra a través de la información disponible en el sitio, desde las especificaciones tanto del interior como del exterior de cada cómic. Para que de esta manera no sea necesario que busque recomendaciones o referencias de otros lugares y no sienta que es un sitio solo para comprar.
 
